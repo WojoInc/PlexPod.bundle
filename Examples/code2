@@ -1,0 +1,4 @@
+# Initialize the plug-in 
+Plugin.AddViewGroup("Details", viewMode="InfoList", mediaType="items")
+Plugin.AddViewGroup("List", viewMode="List", mediaType="items")
+

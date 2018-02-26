@@ -1,0 +1,4 @@
+@handler('/video/askaninja', TITLE)
+def MainMenu():
+	oc = ObjectContainer()
+	return oc 

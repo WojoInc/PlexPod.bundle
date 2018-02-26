@@ -1,0 +1,2 @@
+for video in XML.ElementFromURL(RSS_FEED).xpath('//item'): 
+	# Do Something 
